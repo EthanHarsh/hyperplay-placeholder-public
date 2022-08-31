@@ -10,12 +10,9 @@ _VUE application with express server Containerized for Google Cloud Run_
 A placeholder landing page built using VUE.js.
 
 ## Quick Start
-
-First, input Discord tokens/IDs into config.json file.
-
 ### Using Docker
 ```
-sudo docker build . -t crypto-price-status-discord-bot
+sudo docker build . -t hyperplay-placeholder
 ```
 
 ### Using NPM - Production Start
