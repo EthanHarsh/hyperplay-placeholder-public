@@ -3,7 +3,7 @@ _VUE application with express server Containerized for Google Cloud Run_
 
 ![Node.js Badge](https://img.shields.io/badge/JavaScript-Node.js-green) ![Vue Badge](https://img.shields.io/badge/Framework-VUE-green)
 
-![ScriberScreenshots](readme-images/example.png)
+![HyperplayScreenshot](readme-images/example.png)
 
 ## Description
 
